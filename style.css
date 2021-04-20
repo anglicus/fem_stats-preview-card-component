@@ -94,7 +94,7 @@ p {
 }
 
 #image-div {
-    background-color: var(--soft-violet);
+    background-color: hsl(277, 100%, 29%);
 }
 
 .image-header {
